@@ -1,0 +1,1 @@
+cmd_/home/karol/Desktop/MAJNE/rnd/first/module/rnd_seq.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/karol/Desktop/MAJNE/rnd/first/module/rnd_seq.ko /home/karol/Desktop/MAJNE/rnd/first/module/rnd_seq.o /home/karol/Desktop/MAJNE/rnd/first/module/rnd_seq.mod.o;  true

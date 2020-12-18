@@ -1,0 +1,3 @@
+0x00000000	LCG	/home/karol/Desktop/MAJNE/rnd/third/module/rnd_seq	EXPORT_SYMBOL	
+0x00000000	halton	/home/karol/Desktop/MAJNE/rnd/third/module/rnd_seq	EXPORT_SYMBOL	
+0x00000000	sobol	/home/karol/Desktop/MAJNE/rnd/third/module/rnd_seq	EXPORT_SYMBOL	
