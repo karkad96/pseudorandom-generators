@@ -1,1 +1,0 @@
-cmd_/home/karol/Desktop/MAJNE/rnd/multithreaded/module/rnd.mod := { echo  /home/karol/Desktop/MAJNE/rnd/multithreaded/module/rnd.o; echo; } > /home/karol/Desktop/MAJNE/rnd/multithreaded/module/rnd.mod
